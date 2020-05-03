@@ -1,0 +1,23 @@
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\TuneSourceFinal.exe.config
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\TuneSourceFinal.exe
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\TuneSourceFinal.pdb
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\JDragControl.dll
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\JMetroTextBox.dll
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\JThinButton.dll
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.csprojAssemblyReference.cache
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.Properties.Resources.resources
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.csproj.GenerateResource.cache
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.csproj.CoreCompileInputs.cache
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.csproj.CopyComplete
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.exe
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.pdb
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.Signin.resources
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\FlatButton.dll
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\JGradient Panel.dll
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\JImageButton.dll
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\JMaterialTextbox.dll
+C:\Users\Hungv\source\repos\TuneSourceFinal\bin\Debug\JTextBox2.dll
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.Signup.resources
+C:\Users\Hungv\source\repos\TuneSourceFinal\obj\Debug\TuneSourceFinal.TuneSource.resources
